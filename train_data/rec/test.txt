@@ -1,0 +1,3 @@
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\test\Screenshot - Copy (4)_crop_1.jpg	icon_setting
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\test\Screenshot - Copy_crop_1.jpg	icon_maximize
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\test\Screenshot - Copy (2)_crop_3.jpg	icon_branch

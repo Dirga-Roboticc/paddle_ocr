@@ -1,0 +1,4 @@
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\val\Screenshot - Copy (2)_crop_0.jpg	icon_vscode
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\val\Screenshot - Copy (3)_crop_4.jpg	icon_debug
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\val\Screenshot_crop_0.jpg	icon_error
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\val\Screenshot - Copy_crop_0.jpg	icon_close

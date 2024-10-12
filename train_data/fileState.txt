@@ -1,0 +1,5 @@
+train_data/Screenshot - Copy (2).png	1
+train_data/Screenshot - Copy (3).png	1
+train_data/Screenshot - Copy (4).png	1
+train_data/Screenshot - Copy.png	1
+train_data/Screenshot.png	1

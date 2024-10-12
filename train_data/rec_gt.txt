@@ -1,0 +1,19 @@
+crop_img/Screenshot - Copy (2)_crop_0.jpg	icon_vscode
+crop_img/Screenshot - Copy (2)_crop_1.jpg	icon_file
+crop_img/Screenshot - Copy (2)_crop_2.jpg	icon_search
+crop_img/Screenshot - Copy (2)_crop_3.jpg	icon_branch
+crop_img/Screenshot - Copy (2)_crop_4.jpg	icon_debug
+crop_img/Screenshot - Copy (2)_crop_5.jpg	icon_packages
+crop_img/Screenshot - Copy (3)_crop_0.jpg	icon_vscode
+crop_img/Screenshot - Copy (3)_crop_1.jpg	icon_file
+crop_img/Screenshot - Copy (3)_crop_2.jpg	icon_search
+crop_img/Screenshot - Copy (3)_crop_3.jpg	icon_branch
+crop_img/Screenshot - Copy (3)_crop_4.jpg	icon_debug
+crop_img/Screenshot - Copy (3)_crop_5.jpg	TEMPORARY
+crop_img/Screenshot - Copy (4)_crop_0.jpg	icon_user
+crop_img/Screenshot - Copy (4)_crop_1.jpg	icon_setting
+crop_img/Screenshot - Copy_crop_0.jpg	icon_close
+crop_img/Screenshot - Copy_crop_1.jpg	icon_maximize
+crop_img/Screenshot - Copy_crop_2.jpg	icon_minimize
+crop_img/Screenshot_crop_0.jpg	icon_error
+crop_img/Screenshot_crop_1.jpg	icon_warning

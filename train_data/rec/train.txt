@@ -1,0 +1,12 @@
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (3)_crop_5.jpg	TEMPORARY
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (2)_crop_5.jpg	icon_packages
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot_crop_1.jpg	icon_warning
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (4)_crop_0.jpg	icon_user
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (2)_crop_1.jpg	icon_file
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (3)_crop_3.jpg	icon_branch
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (2)_crop_4.jpg	icon_debug
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (3)_crop_1.jpg	icon_file
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (3)_crop_2.jpg	icon_search
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (3)_crop_0.jpg	icon_vscode
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy_crop_2.jpg	icon_minimize
+C:\Users\dirga\Documents\WORK\PaddleOCR\train_data\rec\train\Screenshot - Copy (2)_crop_2.jpg	icon_search
